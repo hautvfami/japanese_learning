@@ -1,0 +1,10 @@
+{
+  "database": {
+    "version": 0.0,
+    "uri": "/JWord.json"
+  },
+  "application": {
+    "version": 0.0,
+    "uri": "../app/build/outputs/apk/debug/app-debug.apk"
+  }
+}
