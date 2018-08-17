@@ -1,10 +1,10 @@
 {
   "database": {
     "version": 0.0,
-    "uri": "/JWord.json"
+    "uri": "https://raw.githubusercontent.com/hautvfami/japanese_learning/master/server_storage/JWord.json"
   },
   "application": {
     "version": 0.0,
-    "uri": "../app/build/outputs/apk/debug/app-debug.apk"
+    "uri": "https://raw.githubusercontent.com/hautvfami/japanese_learning/master/server_storage/app-debug.apk"
   }
 }
